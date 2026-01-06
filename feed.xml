@@ -3,10 +3,34 @@
     <title>Justin Sybrandt</title>
     <link href="https://sybrandt.com/site-v2/feed.xml" rel="self" />
     <link href="https://sybrandt.com/site-v2" />
-    <updated>1969-12-31T19:00:00-05:00</updated>
+    <updated>2026-01-05T22:12:36-05:00</updated>
     <author>
         <name>Justin Sybrandt[</name>
     </author>
     <id>https://sybrandt.com/site-v2</id>
 
+    <entry>
+        <title>Example Post 2</title>
+        <author>
+            <name>Justin Sybrandt[</name>
+        </author>
+        <link href="https://sybrandt.com/site-v2/example-post-2.html"/>
+        <id>https://sybrandt.com/site-v2/example-post-2.html</id>
+
+        <updated>2026-01-05T22:12:36-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Example Post 1</title>
+        <author>
+            <name>Justin Sybrandt[</name>
+        </author>
+        <link href="https://sybrandt.com/site-v2/example-post-1.html"/>
+        <id>https://sybrandt.com/site-v2/example-post-1.html</id>
+
+        <updated>2026-01-05T22:12:31-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
