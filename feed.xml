@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Justin Sybrandt</title>
+    <link href="https://sybrandt.com/site-v2/feed.xml" rel="self" />
+    <link href="https://sybrandt.com/site-v2" />
+    <updated>1969-12-31T19:00:00-05:00</updated>
+    <author>
+        <name>Justin Sybrandt[</name>
+    </author>
+    <id>https://sybrandt.com/site-v2</id>
+
+</feed>
